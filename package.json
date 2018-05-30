@@ -1,0 +1,30 @@
+{
+  "name": "pikeiandkoch",
+  "version": "1.0.0",
+  "description": "Парсер и оповещатор с фильтром объявлений AVITO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PikeiAndKoch/avitoparser.git"
+  },
+  "keywords": [
+    "avito",
+    "VUE",
+    "SQL",
+    "sass",
+    "webpack",
+    "es6",
+    "gulp",
+    "npm",
+    "git"
+  ],
+  "author": "kostia7alania, OlegKochiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PikeiAndKoch/avitoparser/issues"
+  },
+  "homepage": "https://github.com/PikeiAndKoch/avitoparser#readme"
+}
